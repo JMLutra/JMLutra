@@ -6,7 +6,7 @@
 
 - 👯 I’m looking forward to collaborate on interesting Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Otters and Cats are the cutest animals :3
 
 <br/>
 
