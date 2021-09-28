@@ -21,3 +21,4 @@
 ![Ottero Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMLutra&theme=solarized_dark)
 ![Ottero Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMLutra&theme=solarized_dark)
 ![Ottero Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMLutra&theme=solarized_dark)
+![Ottero Codetime](https://wakatime.com/share/@da0507a9-1991-40a8-8b50-b53716b64e00/2e70217a-22d7-4026-9ce7-418f01f02fa6.svg)
